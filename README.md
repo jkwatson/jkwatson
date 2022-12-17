@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# Mastodon link
+### Mastodon link
 <a rel="me" href="https://mastodon.social/@jkwatson">jkwatson</a>
 
 <!--
