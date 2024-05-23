@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Mastodon link
-<a rel="me" href="https://mastodon.social/@jkwatson">jkwatson</a>
+<a rel="me" href="https://pdx.social/@jkwatson">jkwatson</a>
 
 <!--
 **jkwatson/jkwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
